@@ -15,7 +15,8 @@ A simple and customizable Password Generator built with **HTML**, **CSS**, and *
 
 ## 🖥️ Live Demo
 
-👉 [Click here to try it out]([https://your-username.github.io/repo-name/](https://anshul0k.github.io/Password-Generator/))  
+
+👉 [Click here to try it out](https://anshul0k.github.io/Password-Generator/) 
 
 ## 📸 Preview
 
